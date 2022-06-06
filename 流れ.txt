@@ -1,0 +1,14 @@
+・プロジェクト作成
+・パッケージマネージャー表示、my assets表示
+・pun2が入っていない場合は unity asset store で追加する
+・追加するとmy assetsに出てくる、右下の更新ボタン押す
+・初回はDownloadする
+・Download完了するとImportボタン出てくる、押す
+・PUN Wizard出てくる
+・PUNID作る
+・ダッシュボード作る
+・アプリケーションIDをコピー
+・UnityのPUN Wizardに入力する
+・スクリプト作る
+　・接続と生成をするスクリプト
+　・動かすスクリプト
